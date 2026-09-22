@@ -16,9 +16,10 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  width: 300px;
 }
 
-#hintText, #AntalGæt, #antalAfGæt {
+#hintText, #AntalGæt, #antalAfGæt, h1 {
   text-align: center;
   
   }
