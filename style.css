@@ -18,7 +18,7 @@ body {
   gap: 10px;
 }
 
-#hintText, #AntalGæt {
+#hintText, #AntalGæt, #antalAfGæt {
   text-align: center;
   
   }
