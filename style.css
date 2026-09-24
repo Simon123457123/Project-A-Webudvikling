@@ -19,7 +19,14 @@ body {
   width: 300px;
 }
 
-#hintText, #AntalGæt, #antalAfGæt, h1 {
+#hintText, #AntalGæt, #antalAfGæt, h1, #forkertSvar, #rigtigtSvar {
   text-align: center;
-  
   }
+
+#rigtigtSvar {
+  color: rgb(50, 207, 50);
+}
+
+#forkertSvar {
+  color: red;
+}
