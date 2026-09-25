@@ -1,7 +1,6 @@
 
 const hintText = document.getElementById("hintText")
 const skrivefelt = document.getElementById("skrivefelt")
-// const tælGæt = document.getElementById("gætTæller");
 const antalAfGæt = document.getElementById("antalAfGæt");
 const nytSpil = document.getElementById("nytSpil");
 const hintKnap = document.getElementById("hintKnap")
