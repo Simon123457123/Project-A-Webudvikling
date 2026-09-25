@@ -53,7 +53,6 @@ sendSvar.addEventListener("click", () => {
     rigtigtSvar.textContent = "Tilykke du har gættet det rigtigt! Tryk på start nyt spil igen.";
     forkertSvar.textContent = "";
     skrivefelt.value = ""
-    console.log()
   } else {
     forkertSvar.textContent = "Forkert";
     skrivefelt.value = ""
